@@ -1,0 +1,18 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.dockerignore
+docker/**
+
+# Node.js React App
+frontend/node_modules
+frontend/npm-debug.log
+frontend/package-lock.json
+
+# Ignorance direktori .vscode
+.vscode
+
+# Ini termasuk file yang tersembunyi seperti .DS_Store
+.DS_Store
